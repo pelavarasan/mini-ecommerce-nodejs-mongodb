@@ -41,4 +41,4 @@ We have three API's
   "qty":1  
   }]
 
-4. Products json path: https://github.com/pelavarasan/mini-ecommerce-nodejs-mongodb/backend/data/products.json
+4. Products json path: https://github.com/pelavarasan/mini-ecommerce-nodejs-mongodb/tree/main/backend/data/products.json
