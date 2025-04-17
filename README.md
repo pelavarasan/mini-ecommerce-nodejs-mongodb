@@ -13,6 +13,7 @@ We have three API's
    URL: http://localhost:3000/api/v1/order
    Method: POST
    POSTJson:
+   
    [
   {
   "product":{
@@ -37,9 +38,7 @@ We have three API's
   "numOfReviews": 15,
   "reviews": []
 },
-  "qty":1
-  
-  }
-  
-]
-   
+  "qty":1  
+  }]
+
+4. Products json path: https://github.com/pelavarasan/mini-ecommerce-nodejs-mongodb/backend/data/products.json
