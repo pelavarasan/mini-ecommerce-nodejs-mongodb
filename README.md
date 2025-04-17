@@ -1,13 +1,15 @@
 This is mini projeect with Nodejs and mongoDB
 Used this code to create the API request and response.
 We have three API's
+
 1. List All the products
     URL: http://localhost:3000/api/v1/products
     Method: GET
+   
 2. Get particular product with Id
    URL: http://localhost:3000/api/v1/product/67fde61c1a1e73c960e66e5c
    Method: GET
-4. Order the booking, it will reduce the stock and store the datas in order table.
+3. Order the booking, it will reduce the stock and store the datas in order table.
    URL: http://localhost:3000/api/v1/order
    Method: POST
    POSTJson:
